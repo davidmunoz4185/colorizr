@@ -1,3 +1,9 @@
+commit 518c6795759f6d76fb3e8a12dbb1f628e032c4d9
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Tue Aug 16 10:34:32 2016 +0200
+
+    README.md complete
+
 commit e737156f3af4aaa43a67cd77bc22bfb558c0471a
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Fri Aug 12 12:29:15 2016 +0200

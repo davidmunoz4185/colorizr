@@ -16,3 +16,9 @@ These are the different methods:
 
 `String.sample_colors` shows a short sample
 
+## Installation ...
+- Download this repo.
+- Run gem `install colorizr`
+- Include colorizr in your project by adding the line `require 'colorizr'`
+
+
