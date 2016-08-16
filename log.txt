@@ -1,3 +1,15 @@
+commit a50f920aa1302da992af0507ed1898873c4375b4
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Tue Aug 16 13:01:14 2016 +0200
+
+    reflections.txt added
+
+commit 5803ef544915e3e54cb29141e35fe5d8bbe498a8
+Author: davidmunoz4185 <david.munoz4185@gmail.com>
+Date:   Tue Aug 16 10:42:23 2016 +0200
+
+    README.md updated
+
 commit 518c6795759f6d76fb3e8a12dbb1f628e032c4d9
 Author: davidmunoz4185 <david.munoz4185@gmail.com>
 Date:   Tue Aug 16 10:34:32 2016 +0200

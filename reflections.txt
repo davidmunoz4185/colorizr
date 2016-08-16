@@ -7,4 +7,11 @@ Now I know there is high community to share any code you can create.
 I also feel happy due to I already know how to create method based on the parameteres you pass in
 and how powerful is if you want to parameter these methods.
 
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+By the following causes:
+
+Updating String Class to add new methods.
+Using "class_eval" to implement "create_colors" method.
+Using "send" to call each of the different color methods.
 
