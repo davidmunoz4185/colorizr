@@ -1,0 +1,10 @@
+This project took me around 5 hours to complete.
+
+It´s been pretty interesting to create a gem from the beginning.
+
+Now I know there is high community to share any code you can create.
+
+I also feel happy due to I already know how to create method based on the parameteres you pass in
+and how powerful is if you want to parameter these methods.
+
+
